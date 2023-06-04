@@ -1,0 +1,43 @@
+{
+  "employee": [
+    {
+      "id": 5,
+      "name": "Ijoulee",
+      "email": "joule@gmail.com",
+      "phone": "08461611"
+    },
+    {
+      "id": 4,
+      "name": "Fahmi",
+      "email": "Fahmiasd@gmail.com",
+      "phone": "0856411"
+    },
+    {
+      "id": 10,
+      "name": "Rio Adnan",
+      "email": "Rioadnan16@gmail.ac",
+      "phone": "02251515"
+    },
+    {
+      "name": "ardi ilham",
+      "email": "ardi2100016071@webmail.uad.ac.id",
+      "phone": "08880111",
+      "active": true,
+      "id": 9
+    },
+    {
+      "name": "Reynaldi ahmad",
+      "email": "Rey123@gmail.com",
+      "phone": "123456789",
+      "active": true,
+      "id": 10
+    },
+    {
+      "name": "ahmad fahroni",
+      "email": "ahmadham@gmai.com",
+      "phone": "0123456789",
+      "active": true,
+      "id": 11
+    }
+  ]
+}
